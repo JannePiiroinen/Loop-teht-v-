@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LoopAdvanced2 {
+public class LoopAdvanced {
     public static void main(String[] args) throws Exception {
 
         Scanner in = new Scanner(System.in);
