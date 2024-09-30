@@ -6,7 +6,7 @@ public class LoopAdvanced {
         Scanner in = new Scanner(System.in);
 
         String input;
-        String rightAnswer = "Emma";
+        String rightAnswer = "Jokke";
         boolean correctGuess = false;
         int arvausLaskuri = 0;
 
